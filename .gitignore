@@ -1,2 +1,4 @@
 .DS_Store
 test.jpg
+venv*
+.vscode
